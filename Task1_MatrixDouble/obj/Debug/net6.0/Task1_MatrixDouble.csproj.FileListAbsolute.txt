@@ -1,0 +1,5 @@
+C:\Users\annam\Desktop\C#\дз от 06.10\Task1_MatrixDouble\obj\Debug\net6.0\Task1_MatrixDouble.csproj.AssemblyReference.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task1_MatrixDouble\obj\Debug\net6.0\Task1_MatrixDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annam\Desktop\C#\дз от 06.10\Task1_MatrixDouble\obj\Debug\net6.0\Task1_MatrixDouble.AssemblyInfoInputs.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task1_MatrixDouble\obj\Debug\net6.0\Task1_MatrixDouble.AssemblyInfo.cs
+C:\Users\annam\Desktop\C#\дз от 06.10\Task1_MatrixDouble\obj\Debug\net6.0\Task1_MatrixDouble.csproj.CoreCompileInputs.cache
