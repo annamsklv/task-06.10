@@ -1,0 +1,15 @@
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\bin\Debug\net6.0\Task3_AverageOfColumn.exe
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\bin\Debug\net6.0\Task3_AverageOfColumn.deps.json
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\bin\Debug\net6.0\Task3_AverageOfColumn.runtimeconfig.json
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\bin\Debug\net6.0\Task3_AverageOfColumn.dll
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\bin\Debug\net6.0\Task3_AverageOfColumn.pdb
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\Task3_AverageOfColumn.csproj.AssemblyReference.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\Task3_AverageOfColumn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\Task3_AverageOfColumn.AssemblyInfoInputs.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\Task3_AverageOfColumn.AssemblyInfo.cs
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\Task3_AverageOfColumn.csproj.CoreCompileInputs.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\Task3_AverageOfColumn.dll
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\refint\Task3_AverageOfColumn.dll
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\Task3_AverageOfColumn.pdb
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\Task3_AverageOfColumn.genruntimeconfig.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task3_AverageOfColumn\obj\Debug\net6.0\ref\Task3_AverageOfColumn.dll
