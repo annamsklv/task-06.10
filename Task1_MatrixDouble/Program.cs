@@ -11,7 +11,7 @@ int GetNumber(string message)
     return number;
 }
 
-double [,] InitMatrix(int m, int n)
+double[,] InitMatrix(int m, int n)
 {
     double[,] matrix = new double[m, n];
     Random rnd = new Random();
