@@ -1,0 +1,15 @@
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\Task2_ReturnPosition.csproj.AssemblyReference.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\Task2_ReturnPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\Task2_ReturnPosition.AssemblyInfoInputs.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\Task2_ReturnPosition.AssemblyInfo.cs
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\Task2_ReturnPosition.csproj.CoreCompileInputs.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\bin\Debug\net6.0\Task2_ReturnPosition.exe
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\bin\Debug\net6.0\Task2_ReturnPosition.deps.json
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\bin\Debug\net6.0\Task2_ReturnPosition.runtimeconfig.json
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\bin\Debug\net6.0\Task2_ReturnPosition.dll
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\bin\Debug\net6.0\Task2_ReturnPosition.pdb
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\Task2_ReturnPosition.dll
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\refint\Task2_ReturnPosition.dll
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\Task2_ReturnPosition.pdb
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\Task2_ReturnPosition.genruntimeconfig.cache
+C:\Users\annam\Desktop\C#\дз от 06.10\Task2_ReturnPosition\obj\Debug\net6.0\ref\Task2_ReturnPosition.dll
