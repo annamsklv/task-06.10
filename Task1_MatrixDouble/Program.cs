@@ -4,7 +4,7 @@
 // 1 -3,3 8 -9,9
 // 8 7,8 -7,1 9
 
-double GetNumber(string message)
+int GetNumber(string message)
 {
     Console.WriteLine(message);
     int number = int.Parse(Console.ReadLine() ?? "");
@@ -19,7 +19,7 @@ double [,] InitMatrix(int m, int n)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[i, j] = rnd.Next(1, 10);
+            matrix[i, j] = Math.Round(rnd.NextDouble(), 1);
         }
 
     }
