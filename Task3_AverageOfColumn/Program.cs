@@ -40,25 +40,25 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-int FindAverageOfColumn(int[,] matrix)  //метод должен возвращать массив из значений для каждого столбца
+void FindAndPrintAverageOfColumns(int[,] matrix)
 {
-    int sumOfColumn = 0;
-    for (int i = 0; i < matrix.GetLength(0); i++)
+    double sumColumns = 0;
+    double averageColumns = 0;
+    
+
+    for (int j = 0; j < matrix.GetLength(1); j++)
     {
-        for (int j = 0; j < matrix.GetLength(1); j++)
+        for (int i = 0; i < matrix.GetLength(0); i++)
         {
-            int count = 0;
-            if (j == count)
-            {
-                sumOfColumn += matrix[i, j];
-                count++;
-            }
+            sumColumns += matrix[i, j];
         }
+        averageColumns = sumColumns / matrix.GetLength(0);
+        Console.WriteLine($" Среднеe арифметическое {j + 1} столбца = {averageColumns:F2}");
+        sumColumns = 0;
     }
-    return sumOfColumn;
-    // double average = sumOfColumn / matrix.GetLength(0);
-    return average;
 }
+
+
 
 int n = GetNumber("Введите число m");
 int m = GetNumber("Введите число n");
@@ -66,5 +66,6 @@ int[,] matrix = InitMatrix(m, n);
 
 Console.WriteLine("Матрица:");
 PrintMatrix(matrix);
-// double averageOfColumnElements = FindAverageOfColumn(matrix);
-// Console.WriteLine($"Среднее арифметическое каждого столбца:")
+Console.WriteLine();
+
+FindAndPrintAverageOfColumns(matrix);
