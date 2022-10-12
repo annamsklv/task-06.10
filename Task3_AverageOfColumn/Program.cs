@@ -44,7 +44,7 @@ void FindAndPrintAverageOfColumns(int[,] matrix)
 {
     double sumColumns = 0;
     double averageColumns = 0;
-    
+
 
     for (int j = 0; j < matrix.GetLength(1); j++)
     {
